@@ -1,4 +1,9 @@
 # Título 1 
+
+
 ## Sección 1 Introducción 
 
-Esta es la primera línea original 
+
+Esta es la primera línea original del texto, y ya no termina aquí. Ahora termina aquí. 
+
+Además, añadimos esta línea.
